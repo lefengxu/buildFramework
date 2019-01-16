@@ -83,8 +83,8 @@
   }
 ]
 ```
-name表示业务模块
-有内嵌时，使用children作为key值。
+name表示业务模块</br>
+有内嵌时，使用children作为key值。</br>
 【备注：MVC文件夹无需用加到children中，脚本会自动生成】
 
 ④使用方式
