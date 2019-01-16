@@ -6,7 +6,7 @@
 
 ### 效果
 利用Python脚本生成的文件目录。
-![image](https://github.com/lefengxu/buildFramework/master/images/files.png)
+![image](https://github.com/lefengxu/buildFramework/blob/master/buildFramework/images/files.png)
 
 ### 用法
 ①要有Python 环境
