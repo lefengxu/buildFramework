@@ -1,5 +1,5 @@
 # buildFramework
-一个利用Python构建iOS新项目的小插件
+一个利用Python构建iOS新项目的脚本
 
 ### 用途
 快速搭建iOS新项目，快速搭建需要的文件目录。目前适用于MVC框架。
