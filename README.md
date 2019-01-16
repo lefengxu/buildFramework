@@ -90,6 +90,3 @@
 2. 执行脚本
 ```Python build.py -i <业务文件.json>```
 3、所有生成的文件目录放在了buildArchitecture文件夹里
-
-[的
-[
