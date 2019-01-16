@@ -6,7 +6,16 @@
     "name": "Base"
   },
   {
-    "name": "Categories"
+    "name": "Categories",
+    "children": 
+    [
+      {
+        "name": "Foundation"
+      },
+      {
+        "name": "UIKit"
+      }
+    ]
   },
   {
     "name": "Marco"
